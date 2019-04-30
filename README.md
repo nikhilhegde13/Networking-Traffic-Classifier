@@ -1,4 +1,4 @@
-# Network-Traffic-Classifier
+# Internet Traffic Classifier
 Internet network classifier using Naive bayes
 Accurate traffic classification is of fundamental importance to numerous other network
 activities, from security monitoring to accounting, and from Quality of Service to providing
